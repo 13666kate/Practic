@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error">Error</string>
+    <string name="registration">Регистрация</string>
+    <string name="passwordReaped">password reaped</string>
+    <string name="Login">Вход</string>
+    <string name="name">name</string>
+    <string name="Back">Back</string>
+</resources>
